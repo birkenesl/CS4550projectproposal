@@ -1,5 +1,5 @@
 
-defmodule testing_twilio do
+defmodule Testing.TwilioMessage do
 
   def send_message(msg_body, target_num)
 

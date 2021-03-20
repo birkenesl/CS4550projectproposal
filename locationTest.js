@@ -8,7 +8,7 @@ import pick from 'lodash/pick';
 // this code is attributed to Nat Tuck's lecture code
 // for the photo blog SPA app - I wanted to add location
 // functionality to it.
-//
+
 import { create_user, fetch_users } from '../api';
 
 function UsersNew() {
